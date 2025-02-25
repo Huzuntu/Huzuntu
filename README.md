@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=huzuntu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-- 🌱 I’m currently learning **Spring Boot, Kafka**  
+- 🌱 I’m currently learning **Spring Boot, Backend Development, Microservice Architecture, Apache Kafka and Kafka Streams**  
 - 📫 Reach me at **umuttolekk@gmail.com**  
 
 ---
